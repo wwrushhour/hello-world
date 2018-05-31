@@ -8,3 +8,9 @@ The intelligent pharmacy system will realize the drugstore unmanned
 * Out of medicine
 * Supplement
 * Display
+
+
+## frame diagram
+
+、、、
+
